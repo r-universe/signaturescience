@@ -5,6 +5,9 @@
 [submodule "pracpac"]
 	path = pracpac
 	url = https://github.com/signaturescience/pracpac
+[submodule "rplanes"]
+	path = rplanes
+	url = https://github.com/signaturescience/rplanes
 [submodule "skater"]
 	path = skater
 	url = https://github.com/signaturescience/skater
